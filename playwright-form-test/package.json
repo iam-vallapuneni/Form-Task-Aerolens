@@ -1,0 +1,21 @@
+{
+  "name": "playwright-form-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "allure-playwright": "^3.3.3",
+    "faker": "^6.6.6"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0"
+  }
+}
